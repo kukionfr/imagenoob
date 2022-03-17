@@ -1,0 +1,21 @@
+jupyter
+numpy
+scipy
+pandas
+matplotlib
+xlrd
+imagesize
+opencv-python
+pillow
+imgaug
+future
+scikit-image
+scikit-learn
+
+# tensorboard
+# tensorboardx
+# tqdm
+# docopt==0.6.2
+# psutil==5.7.3
+# termcolor==1.1.0
+
